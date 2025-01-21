@@ -28,5 +28,5 @@ The dataset (heart.csv) contains the following features:
 - **ExerciseAngina:** Exercise-induced angina (Y/N).
 - **Oldpeak:** ST depression induced by exercise relative to rest.
 - **ST_Slope:** The slope of the peak exercise ST segment.
--**HeartDisease:** Diagnosis of heart disease (binary).
+- **HeartDisease:** Diagnosis of heart disease (binary).
 
